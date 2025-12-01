@@ -1,0 +1,1 @@
+Autores: Pablo Rodríguez González y Álvaro Palomar Candel
