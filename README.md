@@ -5,17 +5,20 @@ El proyecto incluye un **ejecutable funcional** del videojuego.
 
 Para jugar **no es necesario tener Unity instalado**.
 
-### ▶ Cómo ejecutar el juego
-1. Acceder a la carpeta `Build/`
-2. Ejecutar el archivo `ZombieSurvival.exe`
-3. El juego se iniciará automáticamente
+Los controles se encuentran en el interior del informe.
 
-### ℹ️ Información adicional
-- El repositorio también incluye las carpetas `Assets`, `Packages` y `ProjectSettings`
-  para permitir abrir y revisar el proyecto completo en Unity.
-- Las carpetas internas de Unity como `Library`, `Temp` o `Logs` no están incluidas
-  para reducir el tamaño del repositorio.
-- Los controles se encuentran en el interior del informe.
+
+## Ejecutable (Windows)
+
+El ejecutable es demasiado grande para GitHub. Se puede descargar aquí:
+https://drive.google.com/file/d/1tt95doLI9FSTaNDWuTfzrPBX1d1_OQyR/view?usp=sharing
+
+
+Instrucciones:
+1. Descargar el .zip
+2. Descomprimir
+3. Ejecutar ProyectoFinal.exe
+
 
 
 
