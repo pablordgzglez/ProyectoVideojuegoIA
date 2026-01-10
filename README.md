@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## ▶ Ejecutable
 
 El proyecto incluye un **ejecutable funcional** del videojuego.
@@ -18,3 +19,6 @@ Para jugar **no es necesario tener Unity instalado**.
 
 
 
+=======
+Autores: Pablo Rodríguez González y Álvaro Palomar Candel
+>>>>>>> 5ddfa2754889a5e6f69ce4477ba503fa8d1bf30b
