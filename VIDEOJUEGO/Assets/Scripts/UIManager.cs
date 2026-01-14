@@ -8,7 +8,6 @@ public class UIManager : MonoBehaviour
     public TextMeshProUGUI txtRound;
     public TextMeshProUGUI txtPoints;
 
-    // NUEVO: banner grande centrado
     public TextMeshProUGUI txtRoundBanner;
 
     private Coroutine bannerCo;
@@ -31,7 +30,6 @@ public class UIManager : MonoBehaviour
         txtPoints.text = "Puntos: " + points;
     }
 
-    // NUEVO
     public void ShowRoundBanner(string message, float seconds)
     {
         if (txtRoundBanner == null) return;

@@ -6,8 +6,8 @@ using UnityEngine.Rendering.Universal;
 public class ScreenBloodEffect : MonoBehaviour
 {
     [Header("References")]
-    public Player player;              // tu script Player (vida)
-    public Volume globalVolume;        // tu Global Volume
+    public Player player;             
+    public Volume globalVolume;        
 
     [Header("Damage Flash (hit)")]
     public float hitVignetteIntensity = 0.45f;

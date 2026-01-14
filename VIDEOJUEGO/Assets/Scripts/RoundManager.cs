@@ -56,7 +56,6 @@ public class RoundManager : MonoBehaviour
 
         yield return new WaitForSeconds(delayBeforeSpawn);
 
-        // 🔑 CLAVE: usamos el valor REAL que devuelve el spawner
         zombiesRemaining = zombieSpawner.SpawnWave(round);
 
         Debug.Log("Ronda " + round + " empieza. Zombies: " + zombiesRemaining);

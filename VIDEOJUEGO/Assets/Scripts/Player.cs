@@ -59,7 +59,7 @@ public class Player : MonoBehaviour
         return dead;
     }
 
-    // Opcional: por si luego añades botiquines
+    
     public void Heal(float amount)
     {
         if (dead) return;

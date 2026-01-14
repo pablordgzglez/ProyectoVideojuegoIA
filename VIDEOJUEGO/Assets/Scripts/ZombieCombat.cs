@@ -86,7 +86,6 @@ public class ZombieCombat : MonoBehaviour
         }
     }
 
-    // Si algún día usas Animation Event, llama a esto en el frame del golpe
     public void DoAttackDamage()
     {
         TryDealDamage();
@@ -105,8 +104,6 @@ public class ZombieCombat : MonoBehaviour
 
         if (player != null && !player.IsDead())
         {
-            // AQUÍ es donde antes se quedaba fijo en 10.
-            // Ahora usa el damage del componente (que ZombieStats.ApplyRound actualiza).
             player.TakeDamage(damage);
         }
     }

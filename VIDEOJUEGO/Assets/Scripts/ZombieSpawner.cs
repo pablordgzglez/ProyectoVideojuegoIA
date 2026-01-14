@@ -79,12 +79,10 @@ public class ZombieSpawner : MonoBehaviour
             if (z.TryGetComponent(out NavMeshAgent agent))
                 agent.Warp(sp.position);
 
-            // 🔥 ASIGNAR TARGET AL COMBAT (CLAVE)
             ZombieCombat combat = z.GetComponent<ZombieCombat>();
             if (combat != null)
                 combat.target = player;
 
-            // 🔥 APLICAR STATS POR RONDA
             ZombieStats stats = z.GetComponent<ZombieStats>();
             if (stats != null)
                 stats.ApplyRound(round);

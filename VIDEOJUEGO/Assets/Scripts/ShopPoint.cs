@@ -6,7 +6,7 @@ public class ShopPoint : MonoBehaviour
     public KeyCode openKey = KeyCode.E;
 
     [Header("Reference")]
-    public ShopUI shopUI; // arrastra aquí el ShopUIController del Canvas
+    public ShopUI shopUI; 
 
     private bool inRange;
     private Player player;
@@ -17,7 +17,7 @@ public class ShopPoint : MonoBehaviour
     {
         if (!inRange || shopUI == null) return;
 
-        // Abrir con E
+        
         if (Input.GetKeyDown(openKey) && !shopUI.IsOpen())
             shopUI.Open(player, shooter, fpc);
 

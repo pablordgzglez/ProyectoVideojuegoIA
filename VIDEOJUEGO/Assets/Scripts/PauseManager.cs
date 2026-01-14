@@ -29,7 +29,7 @@ public class PauseManager : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            // 🔥 PRIORIDAD ABSOLUTA A LA TIENDA
+            
             if (shopUI != null && shopUI.IsOpen())
             {
                 shopUI.Close();

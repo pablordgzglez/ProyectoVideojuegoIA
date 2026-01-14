@@ -44,7 +44,6 @@ public class ZombieHealth : MonoBehaviour
             PointsManager.Instance.AddPoints(pointsOnKill);
 
 
-        // AVISA AL ROUND MANAGER EN EL INSTANTE DE MORIR (1 sola vez)
         OnAnyZombieDied?.Invoke(this);
 
         // 1) Animación de muerte
@@ -90,6 +89,5 @@ public class ZombieHealth : MonoBehaviour
         health = maxHealth;
     }
 
-    // (Opcional) por si quieres leerlo en UI/debug
     public float GetHealth() => health;
 }

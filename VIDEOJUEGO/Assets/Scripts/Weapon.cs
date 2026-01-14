@@ -9,7 +9,7 @@ public class Weapon : MonoBehaviour
     public float range = 120f;
 
     [Header("References")]
-    public Transform muzzle;   // arrastra aquí tu objeto "Muzzle"
+    public Transform muzzle; 
 
     float nextFireTime;
 
