@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|c:\\users\\pablo\\desktop\\tercero\\paradigmas\\proyectofinal\\assets\\scripts\\zombiecombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiecombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\zombiehealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiehealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\shoppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shoppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\shopui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shopui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\zombiestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\pointsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pointsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\screenbloodeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\screenbloodeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\zombiespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\roundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\boundaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boundaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\zombieai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombieai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\zombieattackeventreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombieattackeventreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\zombieattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombieattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\zombieanimationdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombieanimationdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\zombiestatedriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiestatedriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\scripts\\zombienavrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombienavrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\CompleteLevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CompleteLevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\assets\\flooded_grounds\\content\\shaders\\fg_pbr_water.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\flooded_grounds\\content\\shaders\\fg_pbr_water.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ShopPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShopPoint.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ShopPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShopPoint.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T22:06:54.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneLoader.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T23:38:36.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZombieHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ZombieHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieHealth.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ZombieHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:36:56.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZombieCombat.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ZombieCombat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieCombat.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ZombieCombat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieCombat.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T20:32:46.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PauseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\PauseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseManager.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\PauseManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseManager.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAA/wEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T22:18:42.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FirstPersonController.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FirstPersonController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:29:11.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShopUI.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ShopUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShopUI.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ShopUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShopUI.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T21:55:43.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Boundaries.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\Boundaries.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Boundaries.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\Boundaries.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Boundaries.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T00:42:07.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PointsManager.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\PointsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PointsManager.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\PointsManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PointsManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T20:23:16.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ZombieStats.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ZombieStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieStats.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ZombieStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieStats.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:57:22.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:43:16.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScreenBloodEffect.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ScreenBloodEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScreenBloodEffect.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ScreenBloodEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScreenBloodEffect.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T16:21:33.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\RoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RoundManager.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\RoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RoundManager.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T13:31:47.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Shooter.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\Shooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shooter.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\Shooter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shooter.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAqwE0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:28:22.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ZombieSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ZombieSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieSpawner.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ZombieSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieSpawner.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T13:30:00.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T15:08:27.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T13:05:00.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameOverManager.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\GameOverManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverManager.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\GameOverManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOverManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T23:17:36.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ZombieAI.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ZombieAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieAI.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ZombieAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieAI.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:56:47.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ZombieAttackEventReceiver.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ZombieAttackEventReceiver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieAttackEventReceiver.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ZombieAttackEventReceiver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieAttackEventReceiver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T20:17:44.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ZombieAttack.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ZombieAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieAttack.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ZombieAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieAttack.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T13:07:03.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ZombieAnimationDriver.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ZombieAnimationDriver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieAnimationDriver.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ZombieAnimationDriver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieAnimationDriver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T17:54:14.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ZombieStateDriver.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ZombieStateDriver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieStateDriver.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ZombieStateDriver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieStateDriver.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T19:50:53.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ZombieNavRotation.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ZombieNavRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieNavRotation.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\ZombieNavRotation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieNavRotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T17:08:43.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CompleteLevel.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\CompleteLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CompleteLevel.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Scripts\\CompleteLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CompleteLevel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T23:37:01.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FG_PBR_Water.shader",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Flooded_Grounds\\Content\\Shaders\\FG_PBR_Water.shader",
+              "RelativeDocumentMoniker": "Assets\\Flooded_Grounds\\Content\\Shaders\\FG_PBR_Water.shader",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\TERCERO\\PARADIGMAS\\ProyectoFinal\\Assets\\Flooded_Grounds\\Content\\Shaders\\FG_PBR_Water.shader",
+              "RelativeToolTip": "Assets\\Flooded_Grounds\\Content\\Shaders\\FG_PBR_Water.shader",
+              "ViewState": "AgIAAC0AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-12-25T23:15:55.202Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
