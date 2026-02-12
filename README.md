@@ -46,5 +46,6 @@ Instrucciones:
 
 
 
-=======
-Autores: Pablo Rodríguez González y Álvaro Palomar Candel
+## Autores
+[@alvaroplmr](https://github.com/alvaroplmr)
+[@pablordgzglez](https://github.com/pablordgzglez)
